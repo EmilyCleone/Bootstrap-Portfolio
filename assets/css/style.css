@@ -86,9 +86,7 @@ a{
 }
 
 .hr {
-    margin-left:20px;
-    margin-right:20px;
-
+    margin: 0 auto;
 }
 
 #main_content{
@@ -105,12 +103,9 @@ a{
 }
 
 .row{
-    margin-left: 20px;
-    margin-top:30px;
+    margin:0 auto;
     
 }
-
-
 
 
 p {
